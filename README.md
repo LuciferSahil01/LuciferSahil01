@@ -3,10 +3,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b> Amazon-Flipkart web crawler with Elastic search and MongoDB(Node JS)  </b>
+- <b> Amazon-Flipkart web crawler with Elastic search and MongoDB(NodeJS)  </b>
   - [Crawler](https://github.com/LuciferSahil01/Amazon-Flipkart-web-crawler)
+
+- <b>Honeypot(in-progress)</b>
 <!--
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
