@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b> Amazon-Flipkart web crawler with Elastic search and MongoDB </b>
+- <b> Amazon-Flipkart web crawler with Elastic search and MongoDB( javascript and node js)  </b>
   - [Crawler](https://github.com/LuciferSahil01/Amazon-Flipkart-web-crawler)
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
